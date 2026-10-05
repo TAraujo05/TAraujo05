@@ -14,7 +14,7 @@ Iniciando minha jornada na programação e transformando linhas de código em re
 <br>
 - 🚀 Próximos passos: JavaScript e React.
 <br>
-- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/tatyane-araujo-582825362/)
+- 📫 Como me encontrar: <a href="https://www.linkedin.com/in/tatyane-araujo-582825362/">LinkedIn</a>
 <br>
 <br>
 <br>
